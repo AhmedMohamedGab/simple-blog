@@ -14,10 +14,10 @@ index
   <thead>
     <tr>
       <th scope="col">#</th>
-      <th scope="col">Title</th>
-      <th scope="col">Posted By</th>
-      <th scope="col">Created At</th>
-      <th scope="col">Actions</th>
+      <th scope="col">Titleeeeeeeeeeetoooooo</th>
+      <th scope="col">Posted Byeeeeeetoooo</th>
+      <th scope="col">Created Ateeeeeeeeeeetoooooo</th>
+      <th scope="col">Actionseeeeeetoooooo</th>
     </tr>
   </thead>
   <tbody>
